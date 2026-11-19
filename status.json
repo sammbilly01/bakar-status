@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "accounts": [
+    {
+      "h": "b811844c423afed9c1950415499dc909",
+      "status": "active",
+      "exp": "2026-11-26",
+      "sig": "f443c0742ca7b628a87eb6caa984eb9e"
+    }
+  ]
+}
