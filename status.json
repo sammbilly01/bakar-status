@@ -6,6 +6,12 @@
       "status": "active",
       "exp": "2026-12-03",
       "sig": "57595fa1b8090e2b8b954228f19cb5af"
+    },
+    {
+      "h": "6f607e6db05d6a32995c8237e5036a5c",
+      "status": "active",
+      "exp": "2026-11-26",
+      "sig": "b013f804eb97f6ad7d3d9474ca0309c8"
     }
   ]
 }
